@@ -1,6 +1,6 @@
 [submodule "constants"]
 	path = constants
-	url = ./constants/
+	url = git@github.com:ronaldoaraujo/constants.git
 [submodule "hydric_balance"]
 	path = hydric_balance
-	url = ./hydric_balance
+	url = git@github.com:ronaldoaraujo/hydric_balance.git
